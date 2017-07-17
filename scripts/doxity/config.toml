@@ -1,0 +1,14 @@
+linkPrefix = ""
+name = "truffle-init-webpack"
+license = "MIT"
+version = "0.0.1"
+description = "Frontend example using truffle v3"
+author = "Douglas von Kohorn"
+buildTime = 2017-07-17T11:56:27.859Z
+target = "scripts/doxity"
+src = "contracts/*"
+dir = "pages/docs"
+source = "https://github.com/DigixGlobal/doxity-gatsby-starter-project/archive/a4886b7a7a04c018ac04fed3125d7d4785e74bed.tar.gz"
+out = "docs"
+
+[interaction]
